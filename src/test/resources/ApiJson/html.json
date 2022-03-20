@@ -1,0 +1,18 @@
+{
+	"Firstname": "Sundharapandian",
+	"lastname": "M",
+	"Address": "madurai",
+	"Email": "sundhary69@gmail.com",
+	"Language": "English",
+	"Skils": "Selenium",
+	"Contry": "Indian",
+	"Phoneno":9786853857,
+	
+	"dateofbirth":
+	{
+	"Date":27,
+	"Month":12,
+	"Year":1995
+}
+
+}
